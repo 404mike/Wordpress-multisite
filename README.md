@@ -104,3 +104,6 @@ Hosts File - Local (Windows)
 192.168.56.101	mike.app
 192.168.56.101	foo.dev
 ```
+
+Worpdress Site admin
+![Image of admin page](site.png)
