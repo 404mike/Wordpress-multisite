@@ -1,7 +1,13 @@
 # Wordpress-multisite
 
-wp-cli
+wp-cli 
 ```
+cd /var/www/html/
+
+mkdir wordpress
+
+cd !$
+
 wp core install
 
 wp core multisite-install --title="Welcome to the WordPress" --admin_user="admin" --admin_password="password" --admin_email="mij@llgc.org.uk" --url="http://dev.app"
