@@ -49,9 +49,6 @@ Apache - /etc/apache2/sites-available/10-default_vhost_80.conf
 
    ## Directories, there should at least be a declaration for /var/www/html
 
-
-   #Alias /adminer/ "/var/www/html/adminer"
-
    <Directory "/var/www/html/">
      Options Indexes FollowSymlinks MultiViews
      AllowOverride All
