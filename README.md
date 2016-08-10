@@ -94,3 +94,10 @@ Database - wp_options
 siteurl : http://dev.app/
 home: http://dev.app/
 ```
+
+Hosts File - Local (Windows)
+```
+192.168.56.101	dev.app
+192.168.56.101	mike.app
+192.168.56.101	foo.dev
+```
